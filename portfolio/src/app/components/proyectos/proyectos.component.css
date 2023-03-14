@@ -1,0 +1,21 @@
+.row{
+    background-color: rgb(187, 199, 221);
+}
+
+@media (min-width: 576px){
+    h2{
+    padding-top: 60px;
+    padding-left: 16%;
+    padding-bottom: 2%;
+    text-decoration: underline;
+}
+
+}
+@media (max-width: 576px){
+    h2{
+        padding-left: 38%;
+        padding-bottom: 20px;
+        align-self: center;
+        text-decoration: underline;
+       }
+}

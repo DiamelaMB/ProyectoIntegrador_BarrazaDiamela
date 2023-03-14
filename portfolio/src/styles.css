@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+app-root{
+    background-color: rgb(187, 199, 221);
+    color: #1b1717;
+    
+}
+*{
+    margin: 0px;
+    padding-left: 0px;
+}
