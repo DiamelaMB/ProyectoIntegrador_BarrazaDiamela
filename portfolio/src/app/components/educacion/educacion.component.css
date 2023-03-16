@@ -1,28 +1,22 @@
 div{
     background-color:rgb(187, 199, 221);
+    
 }
 .row{
     padding: 50px;
+}
+ul{
+    font-family: Mukta;
 }
 
 p, h5, h4{
     display: inline;
 }
 
-@media (min-width: 576px){
-    h2{
+h2{
     padding-top: 55px;
-    padding-left: 15%;
-    padding-bottom: 2%;
+    padding-bottom: 20px;
+    align-self: center;
     text-decoration: underline;
-}
-
-}
-@media (max-width: 576px){
-    h2{
-        padding-left: 38%;
-        padding-bottom: 20px;
-        align-self: center;
-        text-decoration: underline;
-       }
+    box-shadow: 3px 3px 3px 3px #a1affe;
 }

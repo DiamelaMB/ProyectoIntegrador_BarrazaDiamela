@@ -1,0 +1,12 @@
+.row{
+    background-color: rgb(17, 7, 7);
+}
+footer{
+    color: #bbc7dd;
+    font-size: 14px;
+    font-family: Mukta;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding-top: 2%;
+}
