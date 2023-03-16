@@ -1,6 +1,7 @@
 .row{
     background-color: rgb(187, 199, 221);
-    padding: 20px;    
+    padding: 50px;    
+    color: #030202;
 }
 circle-progress{
     display: inline;
@@ -19,4 +20,5 @@ h2{
     align-self: center;
     text-decoration: underline;
     box-shadow: 3px 3px 3px 3px #a1affe;
+    font-style: italic;
 }

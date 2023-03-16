@@ -1,5 +1,7 @@
 .row{
     padding: 20px;
+    color: #030202;
+
 }
 div{
     text-align: center;
@@ -14,10 +16,12 @@ h2{
     text-decoration: underline;
     padding-bottom: 2%;
     padding-top: 5%;
+    font-style: italic;
     
 }
 p{
     font-family: Mukta;
+    
 }
 /*responsive*/
 @media (min-width: 576px){

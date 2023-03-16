@@ -1,10 +1,12 @@
+.row{
+    padding: 50px;
+    color: #030202;
+}
 div{
     background-color:rgb(187, 199, 221);
     
 }
-.row{
-    padding: 50px;
-}
+
 ul{
     font-family: Mukta;
 }
@@ -19,4 +21,5 @@ h2{
     align-self: center;
     text-decoration: underline;
     box-shadow: 3px 3px 3px 3px #a1affe;
+    font-style: italic;
 }

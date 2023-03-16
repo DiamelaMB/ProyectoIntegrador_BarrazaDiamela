@@ -1,6 +1,7 @@
 .row{
-    padding: 20px;
+    padding: 50px;
     background-color: rgb(187, 199, 221);
+    color: #030202;
 }
 
 h2{
@@ -9,4 +10,5 @@ h2{
     align-self: center;
     text-decoration: underline;
     box-shadow: 3px 3px 3px 3px #a1affe;
+    font-style: italic;
 }
